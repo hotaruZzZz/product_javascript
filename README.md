@@ -5,5 +5,5 @@
 - (2) JavaScript 的事件處理函式的原理是什麼?
   
 - (3) submit 事件和 click 事件有什麼差別?
-  submit用在form上
-  click用在button上
+  - submit用在form上
+  - click用在button上
