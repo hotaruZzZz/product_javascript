@@ -10,5 +10,4 @@
     - submit事件只會在form element觸發
   - click
     - click觸發點擊事件
-    - click不能用於表單提交
-    - 
+    - click事件不能用於表單提交
