@@ -11,3 +11,12 @@ body {
 button{
     margin: 10px;
 }
+
+.card-hover:hover{
+    background-color: #89898943;
+}
+
+.card-danger{
+    background-color: #c45b5b43;
+    color: darkred;
+}
